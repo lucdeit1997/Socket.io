@@ -46,7 +46,7 @@
   <span class="pl-c"><span class="pl-c">//</span> gửi cho tất cả client đã kết nối</span>
   <span class="pl-smi">io</span>.<span class="pl-en">emit</span>(<span class="pl-s"><span class="pl-pds">'</span>an event sent to all connected clients<span class="pl-pds">'</span></span>);
   <br/>
-  <span class="pl-c"><span class="pl-c">-</span> lấy socket it client = socket.io.engine.id</span>
+  <span class="pl-c"><span class="pl-c">-</span> lấy socket client = socket.io.engine.id</span>
 
 };
 </pre></div>
